@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_lwa_hw'
-  s.version          = '2.2.0'
+  s.version          = '2.2.1'
   s.summary          = 'Login with Amazon Flutter plugin'
   s.description      = <<-DESC
 Login with Amazon Flutter plugin. Call Amazon APIs from your Flutter application.

@@ -1,3 +1,10 @@
+## 2.2.1
+
+* Fixed iOS podspec naming issue - renamed `flutter_lwa.podspec` to `flutter_lwa_hw.podspec`
+* Updated podspec content with correct package name and version
+* Updated podspec author and homepage to match new repository
+* Updated minimum iOS version to 11.0
+
 ## 2.2.0
 
 * **BREAKING**: Package renamed to `flutter_lwa_hw` to avoid conflict with original package
